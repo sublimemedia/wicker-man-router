@@ -1,6 +1,6 @@
 {
   "name": "@sublimemedia/wicker-man-router",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Reactive routing. Part of the Wicker Man family.",
   "main": "./dist/WMRouter.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/sublimemedia/wicker-man-router.git"
   },
   "author": "Sublime Media",
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN license.md",
   "bugs": {
     "url": "https://github.com/sublimemedia/wicker-man-router/issues"
   },
@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "@sublimemedia/wicker-man-content": "^0.1.2",
-    "@sublimemedia/wicker-man-utilities": "^0.1.1"
+    "@sublimemedia/wicker-man-utilities": "^0.2.0"
   }
 }
