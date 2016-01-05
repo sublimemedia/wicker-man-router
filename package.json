@@ -1,6 +1,6 @@
 {
   "name": "@sublimemedia/wicker-man-router",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Reactive routing. Part of the Wicker Man family.",
   "main": "./dist/WMRouter.js",
   "scripts": {
